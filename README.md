@@ -1,21 +1,55 @@
 # Hi, I'm Bilal Amin
 
-### Data Science & AI Master's Student | Machine Learning and LLM Application Developer
+### Data Science & AI Master's Student | Machine Learning and AI Engineer 
 
 I am a Master's student in Data Science and Artificial Intelligence at Saarland University, Germany.
 
 I am interested in building practical applications using machine learning, large language models, data analysis, APIs, and interactive user interfaces. My current focus is on Retrieval-Augmented Generation, intelligent learning systems, generative AI, and data-driven software.
 
+<h1 align="center">
+  Hi 👋, I'm Bilal Amin
+</h1>
+
+<h3 align="center">
+  Data Science & AI Master's Student at Saarland University, Germany
+</h3>
+
+<p align="center">
+  Building Machine Learning, LLM, RAG and data-driven applications
+</p>
+
+---
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ## About Me
 
-* Studying Data Science and Artificial Intelligence at Saarland University
-* Completed an Erasmus+ exchange semester at the University of Bergen
-* Previously worked at the Max Planck Institute for Informatics
-* Experienced with Python, SQL, machine learning, dashboards, APIs, and web development
-* Currently developing an AI-powered learning assistant using LLMs and RAG
-* Learning Flutter for cross-platform AI applications
-* Based in Saarbrücken, Germany
-* Open to student jobs, internships, research opportunities, and collaborative projects
+- 🎓 Master's student in **Data Science and Artificial Intelligence**
+- 🏫 Studying at **Saarland University**
+- 🇳🇴 Completed an Erasmus+ semester at the **University of Bergen**
+- 💼 Previously worked at the **Max Planck Institute for Informatics**
+- 🤖 Interested in **LLMs, RAG, Machine Learning and Generative AI**
+- 📱 Currently learning **Flutter and Dart**
+- 📍 Based in **Saarbrücken, Germany**
+- 📫 Email: **[write2bilalamin2@gmail.com](mailto:write2bilalamin2@gmail.com)**
+
+</td>
+
+<td width="42%" align="center">
+
+<img
+  src="assets/coding.gif"
+  alt="Coding animation"
+  width="100%"
+/>
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Currently Working On
 
