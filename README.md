@@ -76,39 +76,13 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Astavicious&theme=github_dark"
-    alt="Bilal Amin GitHub profile summary"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Astavicious&theme=github_dark"
-    alt="Repositories per language"
-    width="32%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Astavicious&theme=github_dark"
-    alt="Most committed languages"
-    width="32%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Astavicious&theme=github_dark"
-    alt="GitHub statistics"
-    width="32%"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=Astavicious&theme=github-dark-blue&hide_border=true"
     alt="Bilal Amin GitHub streak"
     width="70%"
   />
 </p>
+
+---
 
 ---
 
