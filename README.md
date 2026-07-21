@@ -36,15 +36,15 @@
 - AI security and trustworthy machine learning
 - Flutter applications connected to AI backends
 
-</td>
-
-<td width="42%" align="center">
+<td width="42%" align="center" valign="middle">
 
 <img
-  src="assets/coding.gif"
-  alt="Coding animation"
-  width="100%"
+  src="assets/bilal-profile.png"
+  alt="Bilal Amin"
+  width="220"
 />
+
+</td>
 
 </td>
 </tr>
