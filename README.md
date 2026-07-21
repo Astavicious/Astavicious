@@ -12,10 +12,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ## About Me
 
 - 🎓 Master's student in **Data Science and Artificial Intelligence**
@@ -23,7 +19,6 @@
 - 🇳🇴 Completed an Erasmus+ semester at the **University of Bergen**
 - 💼 Previously worked at the **Max Planck Institute for Informatics**
 - 🤖 Interested in **LLMs, RAG, Machine Learning and Generative AI**
-- 📱 Currently learning **Flutter and Dart**
 - 📍 Based in **Saarbrücken, Germany**
 - 📫 Email: **[write2bilalamin2@gmail.com](mailto:write2bilalamin2@gmail.com)**
 
@@ -36,21 +31,9 @@
 - AI security and trustworthy machine learning
 - Flutter applications connected to AI backends
 
-<td width="42%" align="center" valign="middle">
-
-<img
-  src="assets/bilal-profile.png"
-  alt="Bilal Amin"
-  width="220"
-/>
-
-</td>
-
-</td>
-</tr>
-</table>
-
 ---
+
+## Connect With Me
 
 ## Connect With Me
 
