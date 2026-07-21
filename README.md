@@ -30,6 +30,7 @@
 - Data visualization and dashboards
 - AI security and trustworthy machine learning
 - Flutter applications connected to AI backends
+- Also do functional Programming and Competitive Programming
 
 ---
 
