@@ -75,9 +75,8 @@
 ## Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,cs,java,dart" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,cs,java,dart,mysql,mongodb" alt="Programming languages and databases" />
 </p>
-
 ## AI and Data Science
 
 <p align="left">
