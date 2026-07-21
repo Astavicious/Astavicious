@@ -76,23 +76,37 @@
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Astavicious&show_icons=true&hide_border=true&theme=github_dark"
-    alt="Bilal Amin GitHub statistics"
-  />
-
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astavicious&layout=compact&hide_border=true&theme=github_dark"
-    alt="Bilal Amin most used languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Astavicious&theme=github_dark"
+    alt="Bilal Amin GitHub profile summary"
+    width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    width="70%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Astavicious&theme=github_dark"
+    alt="Repositories per language"
+    width="32%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Astavicious&theme=github_dark"
+    alt="Most committed languages"
+    width="32%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Astavicious&theme=github_dark"
+    alt="GitHub statistics"
+    width="32%"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://streak-stats.demolab.com?user=Astavicious&theme=github-dark-blue&hide_border=true"
     alt="Bilal Amin GitHub streak"
+    width="70%"
   />
 </p>
 
