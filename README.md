@@ -38,6 +38,13 @@
 ## Connect With Me
 
 <p align="left">
+  <a href="https://bilal-amin-portfolio-eight.vercel.app" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Bilal%20Amin-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+
   <a href="https://linkedin.com/in/aminbilal/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Bilal%20Amin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
