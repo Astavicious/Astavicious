@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Building Machine Learning, LLM, RAG and data-driven applications
+  Building Machine Learning, LLM, RAG and data-driven applications with some web development past
 </p>
 
 ---
