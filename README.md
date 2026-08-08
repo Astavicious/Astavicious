@@ -20,6 +20,7 @@
 - 💼 Previously worked at the **Max Planck Institute for Informatics**
 - 🤖 Interested in **LLMs, RAG, Machine Learning and Generative AI**
 - 📍 Based in **Saarbrücken, Germany**
+- 📫 Portfolio: **[website](https://bilal-amin-portfolio-eight.vercel.app)**
 - 📫 Email: **[write2bilalamin2@gmail.com](mailto:write2bilalamin2@gmail.com)**
 
 ## Current Focus
