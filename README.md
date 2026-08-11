@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Building Machine Learning, LLM, RAG and data-driven applications with some web development past
+  Building Machine Learning, LLM and full-stack AI applications with a focus on practical, data-driven systems
 </p>
 
 ---
@@ -125,20 +125,25 @@
 
 # Featured Projects
 
-## 🤖 AI Learning Assistant
+## 🇩🇪 GermanLyft — AI-Powered German Learning Platform
 
-An AI-powered learning assistant that answers questions from uploaded PDF documents and generates summaries, quizzes and study material.
+A full-stack AI-powered German learning platform designed primarily for CEFR A1–A2 learners. GermanLyft combines an interactive AI tutor with grammar explanations, sentence correction, exercises, conversation practice, quizzes, user accounts, and Anki deck importing.
 
-**Technologies:** Python, LangChain, Ollama, ChromaDB, FastAPI and Streamlit.
+**Technologies:** React, TypeScript, Vite, Python, Flask, Groq API, SQLite, Vercel and Render.
 
 Main features:
 
-- PDF document upload
-- Retrieval-Augmented Generation
-- Citation-based answers
-- Automatic summaries
-- Quiz generation
-- Locally hosted language models
+- AI-powered German tutor using Llama through the Groq API
+- German grammar explanations with contextual examples
+- Automatic sentence correction with explanations of mistakes
+- A1–A2 vocabulary and grammar exercises
+- Interactive German conversation practice
+- Placement tests and quizzes
+- User registration, login and profile functionality
+- Anki `.apkg` deck importing for flashcard-based learning
+- Responsive React frontend with a Flask REST API backend
+- Environment-based frontend/backend configuration
+- Production deployment architecture using Vercel and Render
 
 ---
 
