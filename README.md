@@ -25,13 +25,14 @@
 
 ## Current Focus
 
-- AI-powered learning applications
+- Full-stack AI and LLM applications
+- AI-powered educational systems
 - Retrieval-Augmented Generation
 - Machine Learning and Computer Vision
-- Data visualization and dashboards
 - AI security and trustworthy machine learning
-- Flutter applications connected to AI backends
-- Also do functional Programming and Competitive Programming
+- Data visualization and analytics
+- API-based AI backend development
+- Functional Programming and Competitive Programming
 
 ---
 
