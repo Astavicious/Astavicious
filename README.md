@@ -1,4 +1,4 @@
-# Hi, I'm Bilal Amin 👋
+# Hi, I'm Bilal 
 
 **MSc Data Science & AI · Software Engineering Research & Web Development**
 
