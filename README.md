@@ -20,7 +20,7 @@ I'm an **MSc Data Science and Artificial Intelligence student at Saarland Univer
 | **Smart StudyDesk** [↗](https://github.com/Astavicious/Projects/tree/main/SmartStudyDesk "View project and Figma prototype") | Study organizer prototype with AI learning features and usability testing using interviews and NASA-TLX. | Figma prototype linked in project README |
 | **SoloScale (Side Hustle Launchpad)** [↗](https://github.com/Jumeconscious2/soloscale-demo "View team frontend demo") | Small-business planning hackathon project; FastAPI/MongoDB backend and database work, with contributions to the pitch. | Team frontend demo |
 | **Network Simulation Analytics** | Automated NS-3 congestion-control evaluation, system tests, and a dashboard for comparing network performance metrics. | Related NS-3 notes [↗](https://github.com/Astavicious/NS3-Learning "View related NS-3 notes") |
-| **MarketPulse** [↗](https://marketpulsehelp.wixsite.com/marketpulse-1 "Open MarketPulse website") | Responsive website and HCI design work focused on information structure, usability, and interaction feedback. | Live site |
+| **MarketPulse** [↗](https://marketpulsehelp.wixsite.com/marketpulse-1 "Open MarketPulse website") | Responsive website and HCI design work focused on information structure, usability, and interaction feedback. | Live site [↗](https://marketpulsehelp.wixsite.com/marketpulse-1) |
 
 ## What I work with
 
